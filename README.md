@@ -17,3 +17,5 @@ statistical concepts and demonstrating their practical relevance in the field of
 technology, where data analysis plays a critical role.
 ### Parking Booking Project (Python, MySQL)
 - A project using Netbeans combined with MySQL to build an application about parking reservation for customers. The project help customers to reserve a parking space online, when the customers sign in, they may view the car number, parking lot, and other information on the customers’ online parking process. Firstly, customers must sign in with their username and the password they have made. Customers may access their car number, slot number, lot number, date, due date, and booking status when their identity has been verified. To help them determine if the date they wish to select is still available, the information will mostly be presented in a table. The consumers are able to view the complete cost of their reservation after selecting the suitable date. After that, customers may visit the Payment Method Page and select the appropriate payment option.
+
+---_ongoing_---
