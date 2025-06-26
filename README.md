@@ -15,3 +15,8 @@ regression model was employed to investigate the relationship between “Kms_Dri
 data analysis for real-world scenarios. It served as a valuable exercise in revisiting core 
 statistical concepts and demonstrating their practical relevance in the field of information 
 technology, where data analysis plays a critical role.
+####  Book recommendation (Python)
+- This project is a publishing system designed to recommend suitable books to users based on
+their interests or the reading habits of users with compatible vision. In the context of book
+publishing, the system aims to recommend books that users might like, based on their reading
+history, the ratings they have given to other books, or the reading habits of users with compatible vision.
